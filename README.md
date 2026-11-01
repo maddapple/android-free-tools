@@ -1,3 +1,4 @@
+
 # Android Free Tools
 
 Discover useful free Android apps, open-source projects and practical tools for everyday use.
@@ -13,6 +14,20 @@ We collect and organize useful Android resources in several categories:
 - **Privacy & Security** – Tools that help users protect their privacy and devices.
 - **Productivity Tools** – Apps for organization, notes, file management and everyday tasks.
 - **Android Guides** – Practical tutorials, tips and explanations.
+
+## Featured Collection
+
+### 5 Free Android Apps Worth Installing
+
+Looking for useful Android apps that don't require a paid subscription?
+
+Explore our curated collection of five free Android apps for file sharing, security, productivity and everyday tasks.
+
+[Explore the 5 Free Android Apps](FREE-ANDROID-APPS.md)
+
+More practical technology guides and app recommendations:
+
+https://maddapple.com/?utm_source=github&utm_medium=referral&utm_campaign=android_free_tools
 
 ## Our Selection Criteria
 
